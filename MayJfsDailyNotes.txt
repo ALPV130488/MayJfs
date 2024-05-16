@@ -1,0 +1,68 @@
+0-off,1-on-binary			------------>Ascii,Unicode 
+
+programming lang-----programs(set of instruction)
+
+
+						computer lang
+				
+				scripting lang						programming lang
+				
+			html,css,js,react,angular...		pop						oop
+											basic....python..		java,.net,c++,....
+s.l :- designing websites	
+
+p.l  :-	devoloping softwares				
+						
+						
+	oop
+	===
+
+
+	Abstraction,Encapsulation :-Security
+	
+	Inheritance,Ploymorphosm:- Performance
+	
+	
+	java----->oops oopl
+	
+	
+
+java
+====
+
+platform independency
+
+
+Garbage collector  
+
+
+			history:- sun microsystem---->green team
+			
+			green talk(.gt)--------->oak ----------->java(.java) jdk 1.0
+
+			sunmicro sys----------------------------->oracle
+			
+			jdk(java development kit)  1.0 ---------->jdk 22
+			
+			
+			james gosling
+			
+			
+			jse/j2se:-(core java)[no client - server ]-standalone app's
+			
+			
+			jee/j2ee:-(Adv java)[client-server] - distributed app's			--web app
+			
+			
+			jme/j2me:-(micro details)---mobile app's------>/android/ios
+			
+			
+			jdk checking :-
+			
+			cmd> java --version
+			
+			
+			
+			53  - keywords/reserved word
+			
+			
