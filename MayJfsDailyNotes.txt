@@ -267,6 +267,8 @@ Inheritance:-Accquring parent class properties to the child class.
 	
 	Ploymorphism:-
 	
+		*Code Reausability	
+	
 	(1)MethodOverloading :-method name is same but difference is in it's parameters
 	
 								(a)type:-of parameters
@@ -275,4 +277,60 @@ Inheritance:-Accquring parent class properties to the child class.
 								
 								(c)no:-of parameters
 	
-	(2)MethodOverriding :-
+	(2)MethodOverriding :-method name is same but difference is in the method body
+	
+	class Parent{
+	
+	1000Cr.(){}
+	
+	marriage(){
+	Kajol;
+	}
+	
+	1000 methods
+	}
+	
+	class Child extends Parent{
+	
+	1000Cr.(){}
+	
+	@Override
+	marriage(){
+	Deepika;
+	}
+	
+	1000 methods
+	
+	}
+	
+	Encapsulation:-  It will wraps entire data into a single unit.
+	=============
+					*Security
+					
+					
+	Constructor:-	It will initializes the objects of a class.
+	============
+			
+			classname objname  = new classname();
+			
+			syntax:-
+			
+			accessmodifier  classname(){
+			
+			//body							----------->default constructor
+			}
+	
+	
+			accessmodifier classname(parms...){
+			
+			//body                      ------------ ----->parametrized constructor
+			
+			}
+	
+	
+	note:- constructor call must be the first statement inside a constructor
+	
+	note :- default parent class for every java file is "java.lang.Object"
+	
+	
+	note :- the default package for every java file is "java.lang.*"
